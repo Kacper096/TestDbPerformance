@@ -1,0 +1,8 @@
+E:\VisualProjects\TestDbPerformance\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+E:\VisualProjects\TestDbPerformance\Core\bin\Debug\netcoreapp3.1\Core.dll
+E:\VisualProjects\TestDbPerformance\Core\bin\Debug\netcoreapp3.1\Core.pdb
+E:\VisualProjects\TestDbPerformance\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+E:\VisualProjects\TestDbPerformance\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+E:\VisualProjects\TestDbPerformance\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+E:\VisualProjects\TestDbPerformance\Core\obj\Debug\netcoreapp3.1\Core.dll
+E:\VisualProjects\TestDbPerformance\Core\obj\Debug\netcoreapp3.1\Core.pdb

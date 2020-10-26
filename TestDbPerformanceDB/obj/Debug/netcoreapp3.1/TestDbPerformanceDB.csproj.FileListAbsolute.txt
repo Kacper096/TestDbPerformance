@@ -1,0 +1,13 @@
+E:\VisualProjects\TestDbPerformance\TestDbPerformanceDB\bin\Debug\netcoreapp3.1\TestDbPerformanceDB.deps.json
+E:\VisualProjects\TestDbPerformance\TestDbPerformanceDB\bin\Debug\netcoreapp3.1\TestDbPerformanceDB.dll
+E:\VisualProjects\TestDbPerformance\TestDbPerformanceDB\obj\Debug\netcoreapp3.1\TestDbPerformanceDB.AssemblyInfoInputs.cache
+E:\VisualProjects\TestDbPerformance\TestDbPerformanceDB\obj\Debug\netcoreapp3.1\TestDbPerformanceDB.AssemblyInfo.cs
+E:\VisualProjects\TestDbPerformance\TestDbPerformanceDB\obj\Debug\netcoreapp3.1\TestDbPerformanceDB.csprojAssemblyReference.cache
+E:\VisualProjects\TestDbPerformance\TestDbPerformanceDB\bin\Debug\netcoreapp3.1\TestDbPerformanceDB.runtimeconfig.json
+E:\VisualProjects\TestDbPerformance\TestDbPerformanceDB\bin\Debug\netcoreapp3.1\TestDbPerformanceDB.runtimeconfig.dev.json
+E:\VisualProjects\TestDbPerformance\TestDbPerformanceDB\bin\Debug\netcoreapp3.1\TestDbPerformanceDB.pdb
+E:\VisualProjects\TestDbPerformance\TestDbPerformanceDB\bin\Debug\netcoreapp3.1\Core.dll
+E:\VisualProjects\TestDbPerformance\TestDbPerformanceDB\bin\Debug\netcoreapp3.1\Core.pdb
+E:\VisualProjects\TestDbPerformance\TestDbPerformanceDB\obj\Debug\netcoreapp3.1\TestDbPerformanceDB.csproj.CopyComplete
+E:\VisualProjects\TestDbPerformance\TestDbPerformanceDB\obj\Debug\netcoreapp3.1\TestDbPerformanceDB.dll
+E:\VisualProjects\TestDbPerformance\TestDbPerformanceDB\obj\Debug\netcoreapp3.1\TestDbPerformanceDB.pdb
